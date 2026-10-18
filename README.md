@@ -35,3 +35,7 @@ Comments, requests, or contributions? Join the [discussion group](http://groups.
 Application developers: see [the page about keyboard support in applications](https://github.com/klausw/hackerskeyboard/wiki/KeyboardSupportInApplications) if you want to enable the additional keys in your Android application, the same method also works for hardware USB or Bluetooth keyboards.
 
 ![hk-5row-en-s.png](hk-5row-en-s.png)
+
+## Support this fork
+
+This is Ross2K's fork of Hacker's Keyboard by Klaus Weidner. It's free. If my changes are useful to you, you can tip me through [GitHub Sponsors](https://github.com/sponsors/Ross2K). Tips go to me for work on this fork, not to the original author. Donations are optional, and nothing is locked behind them.
